@@ -1,0 +1,21 @@
+current directory: /home/vagrant/workspace/diveintopost2/vendor/cache/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/home/vagrant/.rbenv/versions/2.6.5/bin/ruby -I /home/vagrant/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210419-3816-hwevht.rb extconf.rb
+
+current directory: /home/vagrant/workspace/diveintopost2/vendor/cache/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 1.6 s in the future
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/vagrant/workspace/diveintopost2/vendor/cache/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 1.6 s in the future
+echo "Nada."
+Nada.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /home/vagrant/workspace/diveintopost2/vendor/cache/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+make: Warning: File 'Makefile' has modification time 1.6 s in the future
+echo "Nada."
+Nada.
+make: warning:  Clock skew detected.  Your build may be incomplete.
